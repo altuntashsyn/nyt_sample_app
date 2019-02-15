@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/41950d379be37a657507e29a456cf6ce/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9c0e40fd86a2580da562c4b31e6b28bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/c8e1813f523e730ca526e4a536d13191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/41db092670566e30f07264b717e3fe04/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/f3290f55bf1797d3d65b19c09e959e5d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/ce17d592912b471f402bc1330d78c82e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/19bad048e901602c28f5ea68e6390264/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/14ed2ef9bfb67b1673985fc1b31ce933/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/71aa4a88f9cd8a3bd37a73eecbd4aeb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/52ee227976b05e1e2ccbe7ddf513f811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/f4466be59df4dff20b5a6cbb4358db61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/82b2a915797eb6bfcf3a91b8ec70ca78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/b412fc8d020fa67e72fc59c747c17a41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/3ce87cc65df7371c33890c56851edba0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/e620fb6a7bef7115623bffbfeac87ea2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/ab791d876da36e4acd58365785d4d32a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/ed8228c6bb30a76bf92e2d9fc8dcf3e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/88bccae777f8a400e0d7375bf61a7416/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/d622cf23fb5f90f78a907621059e84c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/be236d4bffe8e6cd083c8e168ea63e58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/e4b12fb18fffeab1f160f45d0cbd708f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/8d8aa57da2e1b317119707db276ff2b3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/4226b8663bc04ecfc93b2fafc7f0ea6a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/f955d87c3747b5de39fc8cfb01a4c7b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/37ed34ebfb2ac4d94e5b1a0908d36b9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/03162ae5c0105c725b4ed8020921f504/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/841b2c62a71fad33dfd5445790a939cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/96b9dc736e280794d0803c21f4434f90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/a8faac0b758fde6ed94b869b5cde08bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/8eba25e332e2d77131bbbfedb0f84ef1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa48b69cbf3a6dc578ea00f2e3953a29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/b3c5ac885ca705e64c2d11ee37d7b8c8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d00b01b351ae6702875576e32cc293f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e23e7e9cdf7c95fd55ecd27f24f6b821/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:10:5-23:19
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/41950d379be37a657507e29a456cf6ce/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/41950d379be37a657507e29a456cf6ce/AndroidManifest.xml:22:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/41db092670566e30f07264b717e3fe04/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/41db092670566e30f07264b717e3fe04/AndroidManifest.xml:8:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/f3290f55bf1797d3d65b19c09e959e5d/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/f3290f55bf1797d3d65b19c09e959e5d/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/8d8aa57da2e1b317119707db276ff2b3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/8d8aa57da2e1b317119707db276ff2b3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/4226b8663bc04ecfc93b2fafc7f0ea6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/4226b8663bc04ecfc93b2fafc7f0ea6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/03162ae5c0105c725b4ed8020921f504/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/03162ae5c0105c725b4ed8020921f504/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/8d8aa57da2e1b317119707db276ff2b3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:11:9-35
+activity#sample.nytimes.ui.HomeActivity
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:16:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/41950d379be37a657507e29a456cf6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/41950d379be37a657507e29a456cf6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9c0e40fd86a2580da562c4b31e6b28bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9c0e40fd86a2580da562c4b31e6b28bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/c8e1813f523e730ca526e4a536d13191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/c8e1813f523e730ca526e4a536d13191/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/41db092670566e30f07264b717e3fe04/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/41db092670566e30f07264b717e3fe04/AndroidManifest.xml:6:5-43
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/f3290f55bf1797d3d65b19c09e959e5d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/f3290f55bf1797d3d65b19c09e959e5d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/ce17d592912b471f402bc1330d78c82e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/ce17d592912b471f402bc1330d78c82e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/19bad048e901602c28f5ea68e6390264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/19bad048e901602c28f5ea68e6390264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/14ed2ef9bfb67b1673985fc1b31ce933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/14ed2ef9bfb67b1673985fc1b31ce933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/71aa4a88f9cd8a3bd37a73eecbd4aeb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/71aa4a88f9cd8a3bd37a73eecbd4aeb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/52ee227976b05e1e2ccbe7ddf513f811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/52ee227976b05e1e2ccbe7ddf513f811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/f4466be59df4dff20b5a6cbb4358db61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/f4466be59df4dff20b5a6cbb4358db61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/82b2a915797eb6bfcf3a91b8ec70ca78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/82b2a915797eb6bfcf3a91b8ec70ca78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/b412fc8d020fa67e72fc59c747c17a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/b412fc8d020fa67e72fc59c747c17a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/3ce87cc65df7371c33890c56851edba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/3ce87cc65df7371c33890c56851edba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/e620fb6a7bef7115623bffbfeac87ea2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/e620fb6a7bef7115623bffbfeac87ea2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/ab791d876da36e4acd58365785d4d32a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/ab791d876da36e4acd58365785d4d32a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/ed8228c6bb30a76bf92e2d9fc8dcf3e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/ed8228c6bb30a76bf92e2d9fc8dcf3e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/88bccae777f8a400e0d7375bf61a7416/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/88bccae777f8a400e0d7375bf61a7416/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/d622cf23fb5f90f78a907621059e84c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/d622cf23fb5f90f78a907621059e84c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/be236d4bffe8e6cd083c8e168ea63e58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/be236d4bffe8e6cd083c8e168ea63e58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/e4b12fb18fffeab1f160f45d0cbd708f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/e4b12fb18fffeab1f160f45d0cbd708f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/8d8aa57da2e1b317119707db276ff2b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/8d8aa57da2e1b317119707db276ff2b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/4226b8663bc04ecfc93b2fafc7f0ea6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/4226b8663bc04ecfc93b2fafc7f0ea6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/f955d87c3747b5de39fc8cfb01a4c7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/f955d87c3747b5de39fc8cfb01a4c7b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/37ed34ebfb2ac4d94e5b1a0908d36b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/37ed34ebfb2ac4d94e5b1a0908d36b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/03162ae5c0105c725b4ed8020921f504/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/03162ae5c0105c725b4ed8020921f504/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/841b2c62a71fad33dfd5445790a939cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/841b2c62a71fad33dfd5445790a939cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/96b9dc736e280794d0803c21f4434f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/96b9dc736e280794d0803c21f4434f90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/a8faac0b758fde6ed94b869b5cde08bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/a8faac0b758fde6ed94b869b5cde08bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/8eba25e332e2d77131bbbfedb0f84ef1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/8eba25e332e2d77131bbbfedb0f84ef1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa48b69cbf3a6dc578ea00f2e3953a29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa48b69cbf3a6dc578ea00f2e3953a29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/b3c5ac885ca705e64c2d11ee37d7b8c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/b3c5ac885ca705e64c2d11ee37d7b8c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d00b01b351ae6702875576e32cc293f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d00b01b351ae6702875576e32cc293f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e23e7e9cdf7c95fd55ecd27f24f6b821/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/huseyin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e23e7e9cdf7c95fd55ecd27f24f6b821/AndroidManifest.xml:20:5-44
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huseyin/Downloads/nytimes-api-sample-master/app/src/main/AndroidManifest.xml
